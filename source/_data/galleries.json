@@ -1,0 +1,53 @@
+[
+  {
+    "name": "桌面壁纸",
+    "cover": "background/1.jpg",
+    "description": "桌面背景",
+    "photos": [
+      "background/1.jpg",
+      "background/2.jpg",
+      "background/3.jpg",
+      "background/4.jpg",
+      "background/5.jpg",
+      "background/6.jpg",
+      "background/7.jpg",
+      "background/8.jpg",
+      "background/9.jpg"
+    ]
+  },
+  {
+    "name": "兄弟萌",
+    "cover": "friends/5.jpg",
+    "description": "日常琐事",
+    "photos": [
+      "friends/000.jpeg",
+      "friends/001.jpeg",
+      "friends/002.jpeg",
+      "friends/1.jpg",
+      "friends/2.jpg",
+      "friends/3.jpg",
+      "friends/4.jpg",
+      "friends/5.jpg",
+      "friends/6.jpg",
+      "friends/7.jpg",
+      "friends/8.jpg",
+      "friends/9.jpg",
+      "friends/10.jpg",
+      "friends/11.jpg",
+      "friends/12.jpg",
+      "friends/13.jpg",
+      "friends/14.jpg",
+      "friends/15.jpg",
+      "friends/16.jpg",
+      "friends/17.jpg",
+      "friends/18.jpg",
+      "friends/19.jpg",
+      "friends/20.jpg",
+      "friends/21.jpg",
+      "friends/22.jpg",
+      "friends/23.jpg"
+    ]
+  }
+]
+
+

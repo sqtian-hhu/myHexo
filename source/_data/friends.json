@@ -1,0 +1,21 @@
+[
+    {
+	    "avatar": "/favicon.png",
+	    "name": "世庆の博客",
+	    "introduction": "快乐的程序员",
+	    "url": "https://sqtian-hhu.github.io/",
+	    "title": "偷看一下"
+    },{
+        "name": "HHU",
+        "url": "https://www.hhu.edu.cn/",
+        "title": "访问主页",
+        "introduction": "欢迎报考河海大学！",
+        "avatar": "/medias/avatars/hhu.png"
+    },{
+        "name": "ChenJingzi",
+        "url": "https://ChenJingzi.github.io/",
+        "title": "前去学习",
+        "introduction": "又一位快乐的程序员",
+        "avatar": "/medias/avatars/chen.jpg"
+    }
+]
